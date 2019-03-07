@@ -1783,7 +1783,7 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-golden/Pods-golden-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-golden/Pods-golden-resources.sh",
 				"${PODS_ROOT}/Mixpanel/Mixpanel/Images/MPArrowLeft.png",
 				"${PODS_ROOT}/Mixpanel/Mixpanel/Images/MPArrowLeft@2x.png",
 				"${PODS_ROOT}/Mixpanel/Mixpanel/Images/MPArrowRight.png",
@@ -1826,7 +1826,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-golden/Pods-golden-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-golden/Pods-golden-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
