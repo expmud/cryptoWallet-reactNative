@@ -19,7 +19,7 @@ import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import com.bitgo.randombytes.RandomBytesPackage;
 import com.oblador.keychain.KeychainPackage;
 import com.imagepicker.ImagePickerPackage;
-import com.reactlibrary.RNReactNativeHapticFeedbackPackage;
+import com.mkuczera.RNReactNativeHapticFeedbackPackage;
 import com.rnfs.RNFSPackage;
 import com.evollu.react.fcm.FIRMessagingPackage;
 import com.rngoldenkeystore.RNGoldenKeystorePackage;
